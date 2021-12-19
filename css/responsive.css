@@ -2,6 +2,7 @@
   header .container{
     flex-direction: column;
     overflow: auto;
+    margin: 0 auto;
   }
   .botao{
     margin-top:10px;
@@ -16,4 +17,5 @@
     justify-content:center;
     text-align: center;
   }
+
 }
